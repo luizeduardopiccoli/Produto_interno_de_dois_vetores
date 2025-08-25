@@ -2,7 +2,7 @@
 Programa que calcula o produto interno de dois vetores
 
 Laboratório 3: Programação Concorrente com Paralelismo de Dados
-Este repositório contém a solução para a Atividade 4 (Exercício 1) do Laboratório 3 de Programação Concorrente, ministrado pela Profa. Silvana Rossetto. O objetivo é projetar e implementar uma solução concorrente para o problema de calcular o produto interno de dois vetores de números reais.
+Este repositório contém a solução para a Atividade 4 (Exercício 1) do Laboratório 3 de Programação Concorrente. O objetivo é projetar e implementar uma solução concorrente para o problema de calcular o produto interno de dois vetores de números reais.
 
 Estrutura do Repositório
 gera_testes_prod_interno.c: Programa sequencial auxiliar para gerar os vetores de entrada e o resultado esperado do produto interno em um arquivo binário.
