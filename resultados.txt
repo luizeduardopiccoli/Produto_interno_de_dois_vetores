@@ -1,0 +1,524 @@
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 1
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971120e+07
+Variação Relativa            = 1.0470758950401653e-10
+Tempo de execução (processamento) = 6.1702728271484375e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 1
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971120e+07
+Variação Relativa            = 1.0470758950401653e-10
+Tempo de execução (processamento) = 6.2298774719238281e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 1
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971120e+07
+Variação Relativa            = 1.0470758950401653e-10
+Tempo de execução (processamento) = 9.1290473937988281e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 1
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971120e+07
+Variação Relativa            = 1.0470758950401653e-10
+Tempo de execução (processamento) = 5.7601928710937500e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 1
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971120e+07
+Variação Relativa            = 1.0470758950401653e-10
+Tempo de execução (processamento) = 5.0210952758789062e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 2
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 8.4590911865234375e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 2
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 7.6508522033691406e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 2
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 6.9403648376464844e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 2
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 7.4315071105957031e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 2
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 7.4410438537597656e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 4
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 1.1951923370361328e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 4
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 7.9298019409179688e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 4
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 8.3017349243164062e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 4
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 1.0480880737304688e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1k.bin 4
+
+Produto Interno Sequencial   = -2.7789718621061325e+07
+Produto Interno Concorrente  = -2.7789718623971127e+07
+Variação Relativa            = 1.0470785760966735e-10
+Tempo de execução (processamento) = 1.0049343109130859e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 1
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749814e+08
+Variação Relativa            = 1.8711941760755303e-10
+Tempo de execução (processamento) = 6.8187713623046875e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 1
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749814e+08
+Variação Relativa            = 1.8711941760755303e-10
+Tempo de execução (processamento) = 7.2312355041503906e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 1
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749814e+08
+Variação Relativa            = 1.8711941760755303e-10
+Tempo de execução (processamento) = 7.2503089904785156e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 1
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749814e+08
+Variação Relativa            = 1.8711941760755303e-10
+Tempo de execução (processamento) = 7.2407722473144531e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 1
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749814e+08
+Variação Relativa            = 1.8711941760755303e-10
+Tempo de execução (processamento) = 9.2983245849609375e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 2
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749802e+08
+Variação Relativa            = 1.8711984873941040e-10
+Tempo de execução (processamento) = 7.2312355041503906e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 2
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749802e+08
+Variação Relativa            = 1.8711984873941040e-10
+Tempo de execução (processamento) = 7.4005126953125000e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 2
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749802e+08
+Variação Relativa            = 1.8711984873941040e-10
+Tempo de execução (processamento) = 7.0190429687500000e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 2
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749802e+08
+Variação Relativa            = 1.8711984873941040e-10
+Tempo de execução (processamento) = 8.8691711425781250e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 2
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749802e+08
+Variação Relativa            = 1.8711984873941040e-10
+Tempo de execução (processamento) = 8.3017349243164062e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 4
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749838e+08
+Variação Relativa            = 1.8711855534383827e-10
+Tempo de execução (processamento) = 1.1448860168457031e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 4
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749838e+08
+Variação Relativa            = 1.8711855534383827e-10
+Tempo de execução (processamento) = 1.1610984802246094e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 4
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749838e+08
+Variação Relativa            = 1.8711855534383827e-10
+Tempo de execução (processamento) = 7.4195861816406250e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 4
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749838e+08
+Variação Relativa            = 1.8711855534383827e-10
+Tempo de execução (processamento) = 8.4710121154785156e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10k.bin 4
+
+Produto Interno Sequencial   = -2.7650308718923724e+08
+Produto Interno Concorrente  = -2.7650308713749838e+08
+Variação Relativa            = 1.8711855534383827e-10
+Tempo de execução (processamento) = 1.1777877807617188e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 1
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479874797e+09
+Variação Relativa            = 2.2829127267238204e-10
+Tempo de execução (processamento) = 1.0631084442138672e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 1
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479874797e+09
+Variação Relativa            = 2.2829127267238204e-10
+Tempo de execução (processamento) = 9.6797943115234375e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 1
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479874797e+09
+Variação Relativa            = 2.2829127267238204e-10
+Tempo de execução (processamento) = 1.0159015655517578e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 1
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479874797e+09
+Variação Relativa            = 2.2829127267238204e-10
+Tempo de execução (processamento) = 9.2911720275878906e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 1
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479874797e+09
+Variação Relativa            = 2.2829127267238204e-10
+Tempo de execução (processamento) = 9.6297264099121094e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 2
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875088e+09
+Variação Relativa            = 2.2830174623768271e-10
+Tempo de execução (processamento) = 2.5439262390136719e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 2
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875088e+09
+Variação Relativa            = 2.2830174623768271e-10
+Tempo de execução (processamento) = 9.7703933715820312e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 2
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875088e+09
+Variação Relativa            = 2.2830174623768271e-10
+Tempo de execução (processamento) = 8.7308883666992188e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 2
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875088e+09
+Variação Relativa            = 2.2830174623768271e-10
+Tempo de execução (processamento) = 9.0312957763671875e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 2
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875088e+09
+Variação Relativa            = 2.2830174623768271e-10
+Tempo de execução (processamento) = 8.3303451538085938e-04 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 4
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875026e+09
+Variação Relativa            = 2.2829951416638913e-10
+Tempo de execução (processamento) = 1.0690689086914062e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 4
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875026e+09
+Variação Relativa            = 2.2829951416638913e-10
+Tempo de execução (processamento) = 1.0688304901123047e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 4
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875026e+09
+Variação Relativa            = 2.2829951416638913e-10
+Tempo de execução (processamento) = 1.0378360748291016e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 4
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875026e+09
+Variação Relativa            = 2.2829951416638913e-10
+Tempo de execução (processamento) = 1.0030269622802734e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_100k.bin 4
+
+Produto Interno Sequencial   = -2.7771886473534718e+09
+Produto Interno Concorrente  = -2.7771886479875026e+09
+Variação Relativa            = 2.2829951416638913e-10
+Tempo de execução (processamento) = 1.0769367218017578e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 1
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026783e+10
+Variação Relativa            = 2.4343011790567927e-10
+Tempo de execução (processamento) = 4.1139125823974609e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 1
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026783e+10
+Variação Relativa            = 2.4343011790567927e-10
+Tempo de execução (processamento) = 4.1460990905761719e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 1
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026783e+10
+Variação Relativa            = 2.4343011790567927e-10
+Tempo de execução (processamento) = 4.2049884796142578e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 1
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026783e+10
+Variação Relativa            = 2.4343011790567927e-10
+Tempo de execução (processamento) = 4.1179656982421875e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 1
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026783e+10
+Variação Relativa            = 2.4343011790567927e-10
+Tempo de execução (processamento) = 4.2290687561035156e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 2
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026527e+10
+Variação Relativa            = 2.4342091026404189e-10
+Tempo de execução (processamento) = 2.5820732116699219e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 2
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026527e+10
+Variação Relativa            = 2.4342091026404189e-10
+Tempo de execução (processamento) = 2.4330615997314453e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 2
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026527e+10
+Variação Relativa            = 2.4342091026404189e-10
+Tempo de execução (processamento) = 2.4790763854980469e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 2
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026527e+10
+Variação Relativa            = 2.4342091026404189e-10
+Tempo de execução (processamento) = 2.4800300598144531e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 2
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026527e+10
+Variação Relativa            = 2.4342091026404189e-10
+Tempo de execução (processamento) = 2.5930404663085938e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 4
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026524e+10
+Variação Relativa            = 2.4342077283655477e-10
+Tempo de execução (processamento) = 1.8699169158935547e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 4
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026524e+10
+Variação Relativa            = 2.4342077283655477e-10
+Tempo de execução (processamento) = 2.4449825286865234e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 4
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026524e+10
+Variação Relativa            = 2.4342077283655477e-10
+Tempo de execução (processamento) = 1.5552043914794922e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 4
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026524e+10
+Variação Relativa            = 2.4342077283655477e-10
+Tempo de execução (processamento) = 1.5618801116943359e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_1M.bin 4
+
+Produto Interno Sequencial   = -2.7757891419269676e+10
+Produto Interno Concorrente  = -2.7757891426026524e+10
+Variação Relativa            = 2.4342077283655477e-10
+Tempo de execução (processamento) = 2.6309490203857422e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 1
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210737189e+11
+Variação Relativa            = 2.5530925025870889e-10
+Tempo de execução (processamento) = 3.8986921310424805e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 1
+^[[A
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210737189e+11
+Variação Relativa            = 2.5530925025870889e-10
+Tempo de execução (processamento) = 3.1986951828002930e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 1
+^[[A
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210737189e+11
+Variação Relativa            = 2.5530925025870889e-10
+Tempo de execução (processamento) = 3.7478923797607422e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 1
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210737189e+11
+Variação Relativa            = 2.5530925025870889e-10
+Tempo de execução (processamento) = 3.5815954208374023e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 1
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210737189e+11
+Variação Relativa            = 2.5530925025870889e-10
+Tempo de execução (processamento) = 3.0026197433471680e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 2
+^[[A
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210735083e+11
+Variação Relativa            = 2.5523334217455040e-10
+Tempo de execução (processamento) = 1.8624067306518555e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 2
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210735083e+11
+Variação Relativa            = 2.5523334217455040e-10
+Tempo de execução (processamento) = 1.8879890441894531e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 2
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210735083e+11
+Variação Relativa            = 2.5523334217455040e-10
+Tempo de execução (processamento) = 1.6096115112304688e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 2
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210735083e+11
+Variação Relativa            = 2.5523334217455040e-10
+Tempo de execução (processamento) = 1.8826961517333984e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 2
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210735083e+11
+Variação Relativa            = 2.5523334217455040e-10
+Tempo de execução (processamento) = 1.8882989883422852e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 4
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210734595e+11
+Variação Relativa            = 2.5521574029996290e-10
+Tempo de execução (processamento) = 1.0430097579956055e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 4
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210734595e+11
+Variação Relativa            = 2.5521574029996290e-10
+Tempo de execução (processamento) = 1.2653112411499023e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 4
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210734595e+11
+Variação Relativa            = 2.5521574029996290e-10
+Tempo de execução (processamento) = 8.5608959197998047e-03 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 4
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210734595e+11
+Variação Relativa            = 2.5521574029996290e-10
+Tempo de execução (processamento) = 1.2845993041992188e-02 segundos
+
+ed@Computador-1-B:/mnt/c/Users/Master/Desktop/concorrente$ ./prod_interno_conc teste_10M.bin 4
+
+Produto Interno Sequencial   = -2.7740298203654834e+11
+Produto Interno Concorrente  = -2.7740298210734595e+11
+Variação Relativa            = 2.5521574029996290e-10
+Tempo de execução (processamento) = 1.0380029678344727e-02 segundos
